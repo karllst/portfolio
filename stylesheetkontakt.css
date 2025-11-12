@@ -2,27 +2,18 @@
     font-family: Helvetica, sans-serif;
     }
 
-.navigation{
-    margin-top: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.karl, .kontakt{
+   position: fixed;
 
-    a{
+   a{
     color: black;
     text-decoration: none;  
     }
-
     }
+.karl{left: 8px;}
+.kontakt{right: 8px;}
 
-p{
-    margin-top: 60px;
-    margin-bottom: 60px;
-    a{
-    color: black;
-    text-decoration: none;
-    }
-}    
+
 
 .arbeiten, .legal{
    position: fixed;
@@ -33,14 +24,10 @@ p{
     text-decoration: none;  
     }
     }
+.arbeiten{left: 8px;}
+.legal{right: 8px;}
 
-.arbeiten{
-    left: 8px;
-}
 
-.legal{
-    right: 8px;
-}
 
 p{
     font-size: 13px;
