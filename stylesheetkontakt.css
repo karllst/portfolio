@@ -15,6 +15,18 @@
 
 
 
+p{
+    font-size: 13px;
+    margin-left: 5px;
+
+    a{
+    text-decoration: none;
+    color: black;
+    }
+}
+
+
+
 .arbeiten, .legal{
    position: fixed;
    bottom: 20px;
@@ -27,9 +39,3 @@
 .arbeiten{left: 8px;}
 .legal{right: 8px;}
 
-
-
-p{
-    font-size: 13px;
-    margin-left: 5px;
-    }
