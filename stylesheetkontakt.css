@@ -27,7 +27,8 @@
 p{
     font-size: 13px;
     margin-left: 5px;
-    position: fixed;   
+    position: fixed;
+    text-align: right;   
     right: 0;             
     top: 50%; 
 
