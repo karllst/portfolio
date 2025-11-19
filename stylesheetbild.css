@@ -49,8 +49,8 @@ body{
     display: block;
     width: auto;
     height: auto;
-    max-width: 70vw;
-    max-height: 70vh;                
+    max-width: 80vw;
+    max-height: 80vh;                
     object-fit: contain;
     margin: 0 auto;
 }
