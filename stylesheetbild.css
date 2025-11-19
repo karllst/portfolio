@@ -30,7 +30,7 @@ body{
     display: flex;
     justify-content: center;              
     align-items: center;                 
-    padding: 100px 20px 60px;      
+    padding: 0 20px;      
     box-sizing: border-box;
 }
 
@@ -48,7 +48,7 @@ body{
     height: auto;
     max-height: 65vh;                
     object-fit: contain;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
